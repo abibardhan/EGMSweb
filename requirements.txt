@@ -1,0 +1,14 @@
+# Web interface dependencies
+streamlit>=1.28.0
+
+# HTTP client with CF support
+curl-cffi>=0.6.0
+
+# Coordinate transformation
+pyproj>=3.6.0
+
+# Geocoding services
+geopy>=2.4.0
+
+# Progress bars for CLI tools
+tqdm>=4.66.0 
